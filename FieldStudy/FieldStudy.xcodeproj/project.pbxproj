@@ -15,6 +15,7 @@
 		19D8A44E1FAD67A1008941B7 /* Classification.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19D8A44D1FAD67A1008941B7 /* Classification.swift */; };
 		19D8A4501FAD696A008941B7 /* ObservationEvent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19D8A44F1FAD696A008941B7 /* ObservationEvent.swift */; };
 		19D8A4521FAD6BC1008941B7 /* FieldStudyJSONParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19D8A4511FAD6BC1008941B7 /* FieldStudyJSONParser.swift */; };
+		19D8A4541FAD71C8008941B7 /* ObservationEventsJSONLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19D8A4531FAD71C8008941B7 /* ObservationEventsJSONLoader.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		19D8A44D1FAD67A1008941B7 /* Classification.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Classification.swift; sourceTree = "<group>"; };
 		19D8A44F1FAD696A008941B7 /* ObservationEvent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObservationEvent.swift; sourceTree = "<group>"; };
 		19D8A4511FAD6BC1008941B7 /* FieldStudyJSONParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FieldStudyJSONParser.swift; sourceTree = "<group>"; };
+		19D8A4531FAD71C8008941B7 /* ObservationEventsJSONLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObservationEventsJSONLoader.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 				19D8A44D1FAD67A1008941B7 /* Classification.swift */,
 				19D8A44F1FAD696A008941B7 /* ObservationEvent.swift */,
 				19D8A4511FAD6BC1008941B7 /* FieldStudyJSONParser.swift */,
+				19D8A4531FAD71C8008941B7 /* ObservationEventsJSONLoader.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -158,6 +161,7 @@
 				19D8A4521FAD6BC1008941B7 /* FieldStudyJSONParser.swift in Sources */,
 				19D8A44E1FAD67A1008941B7 /* Classification.swift in Sources */,
 				19D8A4501FAD696A008941B7 /* ObservationEvent.swift in Sources */,
+				19D8A4541FAD71C8008941B7 /* ObservationEventsJSONLoader.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
